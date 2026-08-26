@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+openai>=1.60
+Pillow>=10
+moviepy>=2
+imageio-ffmpeg>=0.5
+pydub>=0.25
